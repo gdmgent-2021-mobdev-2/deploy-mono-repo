@@ -10,6 +10,7 @@ app.get('/', (req, res) => {
     res.send(process.env.VARIABLE_ONE);
 });
 
+
 app.listen(port, () => {
-    console.log(`Example app at port ${port}`)
+    console.log(`Example app at port ${port}`);
 });

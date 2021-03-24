@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Success test: { process.env.VARIABLE_ONE }
         </p>
         <a
           className="App-link"

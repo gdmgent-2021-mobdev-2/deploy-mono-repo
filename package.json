@@ -1,7 +1,7 @@
 {
   "dependencies": {},
   "devDependencies": {
-    "husky": "^5.2.0",
+    "husky": "4",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0"
   },

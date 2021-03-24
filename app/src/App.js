@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Success test: { process.env.VARIABLE_ONE }
+          Success test: { process.env.REACT_APP_VARIABLE_ONE }
         </p>
         <a
           className="App-link"

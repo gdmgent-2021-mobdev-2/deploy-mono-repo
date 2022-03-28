@@ -4,7 +4,7 @@
 
 - Zorg dat je een Procfile hebt in beide projecten (leeg bij app, ingevuld bij api)
 - Zorg bij je API eventueel dat je via package.json de Node versie meegeeft (`engines`)
-- Zorg bij de API dat je `process.env.PORT` gebruikt zodat Heroku dit kan wijzigen
+- Zorg bij de API dat je `process.env.PORT` als poort gebruikt zodat Heroku dit kan wijzigen
 
 ## Heroku
 

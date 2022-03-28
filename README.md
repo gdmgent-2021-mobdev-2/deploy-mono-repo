@@ -1,9 +1,5 @@
 # Heroku Mono Repo Tutorial
 
-## Prettier
-
-- Let op: installeer `yarn add husky@4.3` (ipv nieuwe versie 5) om problemen te vermijden
-
 ## Project klaarmaken
 
 - Zorg dat je een Procfile hebt in beide projecten (leeg bij app, ingevuld bij api)
